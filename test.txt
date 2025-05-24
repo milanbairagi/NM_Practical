@@ -1,0 +1,19 @@
+Enter the number of equations (n): 3
+Enter the coefficients of matrix A and constants b (row-wise):
+A[0][0] = 2
+A[0][1] = 1
+A[0][2] = -1
+b[0] = 5
+A[1][0] = 4
+A[1][1] = 5
+A[1][2] = -3
+b[1] = 13
+A[2][0] = -2
+A[2][1] = 5
+A[2][2] = -4
+b[2] = 1
+
+Solution:
+x1 = 2.000000
+x2 = 1.000000
+x3 = 0.000000
